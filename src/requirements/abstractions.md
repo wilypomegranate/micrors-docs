@@ -32,7 +32,7 @@ These are the kinds of abstractions that should be implemented.
 ## I/O device abstractions
 
 I/O devices should also have provided implementations. Ideally these
-be put into separate crates and could be installed as the user
+should be put into separate crates and could be installed as the user
 wishes.
 
 Some of the devices that would need implementations to be useful.
